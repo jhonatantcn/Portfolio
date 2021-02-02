@@ -5,7 +5,7 @@
 <!-- <p>Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.</p> -->
 
 <img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS" />
-___
+<hr />
 
 <h1 id="i-blue-it-40--multimodal">I Blue It 4.0 : Multimodal</h1>
 
@@ -75,9 +75,9 @@ Expirar -> Desce.
     - Linux [Download](https://drive.google.com/uc?export=download&id=1nJZvCeM6dzT80JGBltkeQ2m-PVZk1fK7)
     - Controles: Pitaco ou Mano-BD
 
-___
+<hr />
 <img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS"/>
-___
+<hr />
 
 
 # Minicurso Unity 2D
@@ -104,9 +104,9 @@ Conteúdo Prático:
 -	Visão 2D;
 -	Projeto 2D: Sprites; Cenário 2D; Tilemap; Tile Palette; Sprite Renderer e Tilemap Renderer; Collider 2D; Rigidbody 2D; Animação; Scripts; Score e vidas do personagem; Botões; SavePoint; Inimigos; Comandos input personalizados; Canvas; Menu pause; Tela Game Over; Tela de login; Uso do MAMP para emular um banco de dados local; SQL Basico; PHP voltado para mysql; Telas de Cadastro e login; Interação das telas com o banco usando Unity , C# e PHP.
 
-___
+<hr />
 <img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS"/>
-___
+<hr />
 
 # Minicurso Unity 3D
 Minicurso ministrado por mim gratuitamente para a comunidade em maio de 2019, na Universidade do Estado de Santa Catarina, com o desenvolvimento do seguinte projeto 3D.
@@ -141,9 +141,9 @@ Conteúdo Prático:
 -	Asset Store;
 -	Projeto 3D: Assets padrão Unity (esfera, player, câmera); Texturas (Internet); Criação de 1 fase com formas geométricas; Criação de 1 fase com terreno; SavePoint; Comandos input personalizados.
 
-___
+<hr />
 <img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS"/>
-___
+<hr />
 
 <center>Todos os direitos reservados a Jhonatan Néry.</center>
 
