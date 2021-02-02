@@ -8,13 +8,15 @@
 <p><img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS" /></p>
 <h1 id="i-blue-it-40--multimodal">I Blue It 4.0 : Multimodal</h1>
 
+<b>"I Blue It 4.0"</b> é um Jogo Sério para Reabilitação Respiratória. O jogador controla o golfinho Blue em sua viagem pelas fases do jogo e tem como objetivo auxiliar na reabilitação respiratória.
+
 <center>
 <section id="video" class="video">
   <iframe width="690" height="315" src="https://www.youtube.com/embed/ywdSCqlUPME?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </section>
 </center>
 
-<b>"I Blue It 4.0"</b> é um Jogo Sério para Reabilitação Respiratória. O jogador controla o golfinho Blue em sua viagem pelas fases do jogo e tem como objetivo auxiliar na reabilitação respiratória.
+
 
 ## Público Alvo:
 
