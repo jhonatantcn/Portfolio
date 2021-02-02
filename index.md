@@ -38,7 +38,7 @@
         <h2>Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.</h2>
         
         
-          <a href="https://github.com/jhonatantcn" class="button"><small>Follow me on</small> GitHub</a>
+          <!-- <a href="https://github.com/jhonatantcn" class="button"><small>Follow me on</small> GitHub</a> -->
         
       </div>
     </header>
