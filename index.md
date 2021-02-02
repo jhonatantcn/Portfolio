@@ -99,6 +99,14 @@ Minicurso ministrado gratuitamente para a comunidade em junho de 2019, na Univer
 ___
 <img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS"/>
 
+Conteúdo Teórico: 
+-	Revisão: Visão geral das telas da Unity; Opções de Movimentação/Visão no Unity; Câmeras; Iluminação; Componentes; Asset Store.
+
+Conteúdo Prático:
+-	Visão 2D;
+-	Projeto 2D: Sprites; Cenário 2D; Tilemap; Tile Palette; Sprite Renderer e Tilemap Renderer; Collider 2D; Rigidbody 2D; Animação; Scripts; Score e vidas do personagem; Botões; SavePoint; Inimigos; Comandos input personalizados; Canvas; Menu pause; Tela Game Over; Tela de login; Uso do MAMP para emular um banco de dados local; SQL Basico; PHP voltado para mysql; Telas de Cadastro e login; Interação das telas com o banco usando Unity , C# e PHP.
+
+
 # Minicurso Unity 3D
 Minicurso ministrado gratuitamente para a comunidade em maio de 2019, na Universidade do Estado de Santa Catarina, com o desenvolvimento do seguinte projeto 3D.
 
@@ -115,6 +123,23 @@ Minicurso ministrado gratuitamente para a comunidade em maio de 2019, na Univers
 <center>
 <img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Projeto%203D%20Minicurso/3D.png?token=AKDSSB7Q3EEMJC7H7TUXXM3AEIPGU"/>
 </center>
+
+Conteúdo Teórico: 
+-	Guia geral para criação de Jogos;
+-	Jogos Indie;
+-	Unity engine.
+
+Conteúdo Prático:
+-	Teste de jogo 3D pronto como forma de entender o conceito;
+-	Download UnityHub e Unity;
+-	Visão geral das telas da Engine Unity;
+-	Opções de Movimentação/Visão no Unity;
+-	Câmeras;
+-	Iluminação;
+-	Componentes;
+-	Asset Store;
+-	Projeto 3D: Assets padrão Unity (esfera, player, câmera); Texturas (Internet); Criação de 1 fase com formas geométricas; Criação de 1 fase com terreno; SavePoint; Comandos input personalizados.
+
 ___
 
 <img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS"/>
