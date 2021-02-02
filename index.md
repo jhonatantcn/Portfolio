@@ -1,3 +1,5 @@
+
+<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset='utf-8'>
@@ -6,7 +8,41 @@
     <link rel="stylesheet" href="/assets/css/style.css?v=55cf5355249a12700eb687c0ab67631a4221515a" media="screen" type="text/css">
     <link rel="stylesheet" href="/assets/css/print.css" media="print" type="text/css">
 
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
 <title>jhonatantcn.github.io | Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="jhonatantcn.github.io" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados." />
+<meta property="og:description" content="Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados." />
+<link rel="canonical" href="https://jhonatantcn.github.io/" />
+<meta property="og:url" content="https://jhonatantcn.github.io/" />
+<meta property="og:site_name" content="jhonatantcn.github.io" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="jhonatantcn.github.io" />
+<script type="application/ld+json">
+{"url":"https://jhonatantcn.github.io/","@type":"WebSite","headline":"jhonatantcn.github.io","description":"Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.","name":"jhonatantcn.github.io","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+        <a href="https://jhonatantcn.github.io/">
+          <h1>jhonatantcn.github.io</h1>
+        </a>
+        <h2>Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.</h2>
+        
+        
+          <a href="https://github.com/jhonatantcn" class="button"><small>Follow me on</small> GitHub</a>
+        
+      </div>
+    </header>
 
 <img src="https://raw.githubusercontent.com/jhonatantcn/jhonatantcn.github.io/main/Design/Logo.jpg?token=AKDSSBYX55RPO7W5IQTRTGTAEHLG6"/>
 
@@ -127,3 +163,6 @@ ___
 <center>Todos os direitos reservados a Jhonatan Néry.</center>
 
 <link rel='stylesheet' id='jhonatan-css' href='adic/css/jhonatan.css' type='text/css' media='all' />
+
+</body>
+</html>
