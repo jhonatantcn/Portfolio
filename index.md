@@ -14,11 +14,11 @@
 
 <b>"I Blue It 4.0"</b> é um Jogo Sério para Reabilitação Respiratória. O jogador controla o golfinho Blue em sua viagem pelas fases do jogo e tem como objetivo auxiliar na reabilitação respiratória.
 
-### Público Alvo:
+## Público Alvo:
 
 Jogadores com enfermidades respiratórias (crianças e adultos).
 
-### Funcionamento:
+## Funcionamento:
 
 O jogo digital se comunica com um ou mais dos dispositivos abaixo:
 
@@ -29,17 +29,17 @@ O jogo digital se comunica com um ou mais dos dispositivos abaixo:
  
 Estes permitem a captura do processo respiratório do jogador (exceto o Oxímetro que captura a oxigenação e frequência cardíaca). Os movimentos do Blue (o golfinho) são controlados em função das ações respiratórias (inspirar ou expirar) que o jogador fizer no dispositivo.
 
-### Regras:
+## Regras:
 
 O jogador deve capturar alvos (verdes) e desviar de obstáculos (vermelhos) para pontuar e passar de nível.
 
-### Controles: 
+## Controles: 
 
 Você usa a sua respiração como controle. 
 Inspirar -> Sobe; 
 Expirar -> Desce.
 
-### Requisitos:
+## Requisitos:
 
 • Sistema Operacional: Windows / Linux;
 
@@ -50,7 +50,7 @@ Expirar -> Desce.
 • Um responsável (especialista) para acompanhar o uso do jogo.
 <center>
 <section id="video" class="video">
-  <iframe width="420" height="315" src="https://www.youtube.com/embed/ywdSCqlUPME?showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="820" height="315" src="https://www.youtube.com/embed/ywdSCqlUPME?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </section>
 </center>
 
@@ -62,7 +62,7 @@ Expirar -> Desce.
 <img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/I%20Blue%20It%204.0/Pitaco_Mano.jpg?token=AKDSSB7J7B2DNOAWF2RIXGTAEIOXA"/>
 </center>
 
-### Downloads do jogo:
+## Downloads do jogo:
 
 - <b>[Versão 4.0 - MULTIMODAL]  - Links em breve!</b>
 
@@ -85,7 +85,7 @@ Minicurso ministrado gratuitamente para a comunidade em junho de 2019, na Univer
 
 <center>
 <section id="video" class="video">
-  <iframe width="420" height="315" src="https://www.youtube.com/embed/INe25IKo6bc?showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="820" height="315" src="https://www.youtube.com/embed/INe25IKo6bc?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </section>
 </center>
 
@@ -105,7 +105,7 @@ Minicurso ministrado gratuitamente para a comunidade em maio de 2019, na Univers
 
 <center>
 <section id="video" class="video">
-  <iframe width="420" height="315" src="https://www.youtube.com/embed/0Io-3Kh73TI?showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="820" height="315" src="https://www.youtube.com/embed/0Io-3Kh73TI?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </section>
 </center>
 
