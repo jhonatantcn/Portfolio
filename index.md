@@ -1,5 +1,5 @@
 <center>
-<p><img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Logo.png?token=AKDSSB4M6B463TDIPY2GOGLAEI35Q" /></p>
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Logo.png?token=AKDSSB4M6B463TDIPY2GOGLAEI35Q" />
 </center>
 
 <!-- <p>Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.</p> -->
@@ -96,9 +96,6 @@ Minicurso ministrado gratuitamente para a comunidade em junho de 2019, na Univer
 <img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Projeto%202D%20Minicurso/2D.png?token=AKDSSB7CGJNZ2D7IUKWKSX3AEIPC6"/>
 </center>
 
-___
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS"/>
-
 Conteúdo Teórico: 
 -	Revisão: Visão geral das telas da Unity; Opções de Movimentação/Visão no Unity; Câmeras; Iluminação; Componentes; Asset Store.
 
@@ -106,6 +103,8 @@ Conteúdo Prático:
 -	Visão 2D;
 -	Projeto 2D: Sprites; Cenário 2D; Tilemap; Tile Palette; Sprite Renderer e Tilemap Renderer; Collider 2D; Rigidbody 2D; Animação; Scripts; Score e vidas do personagem; Botões; SavePoint; Inimigos; Comandos input personalizados; Canvas; Menu pause; Tela Game Over; Tela de login; Uso do MAMP para emular um banco de dados local; SQL Basico; PHP voltado para mysql; Telas de Cadastro e login; Interação das telas com o banco usando Unity , C# e PHP.
 
+___
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS"/>
 
 # Minicurso Unity 3D
 Minicurso ministrado gratuitamente para a comunidade em maio de 2019, na Universidade do Estado de Santa Catarina, com o desenvolvimento do seguinte projeto 3D.
