@@ -144,4 +144,4 @@ ___
 
 <center>Todos os direitos reservados a Jhonatan Néry.</center>
 
-<!-- <link rel='stylesheet' id='jhonatan-css' href='adic/css/jhonatan.css' type='text/css' media='all' /> -->
+<link rel='stylesheet' id='jhonatan-css' href='adic/css/jhonatan.css' type='text/css' media='all' />
