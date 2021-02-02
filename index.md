@@ -14,17 +14,17 @@
 <!-- Begin Jekyll SEO tag v2.7.1 -->
 <title>Jhonatan Néry | Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.</title>
 <meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="jhonatantcn.github.io" />
+<!-- <meta property="og:title" content="jhonatantcn.github.io" /> -->
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados." />
 <meta property="og:description" content="Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados." />
 <link rel="canonical" href="https://jhonatantcn.github.io/" />
 <meta property="og:url" content="https://jhonatantcn.github.io/" />
-<meta property="og:site_name" content="jhonatantcn.github.io" />
+<!-- <meta property="og:site_name" content="jhonatantcn.github.io" /> -->
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="jhonatantcn.github.io" />
+<!-- <meta property="twitter:title" content="jhonatantcn.github.io" /> -->
 <script type="application/ld+json">
-{"url":"https://jhonatantcn.github.io/","@type":"WebSite","headline":"Jhonatan Néry","description":"Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.","name":"jhonatantcn.github.io","@context":"https://schema.org"}</script>
+<!-- {"url":"https://jhonatantcn.github.io/","@type":"WebSite","headline":"Jhonatan Néry","description":"Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.","name":"jhonatantcn.github.io","@context":"https://schema.org"}</script> -->
 <!-- End Jekyll SEO tag -->
 
   </head>
