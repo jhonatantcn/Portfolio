@@ -1,3 +1,11 @@
+<html lang="en-US">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="/assets/css/style.css?v=55cf5355249a12700eb687c0ab67631a4221515a" media="screen" type="text/css">
+    <link rel="stylesheet" href="/assets/css/print.css" media="print" type="text/css">
+
 <img src="https://raw.githubusercontent.com/jhonatantcn/jhonatantcn.github.io/main/Design/Logo.jpg?token=AKDSSBYX55RPO7W5IQTRTGTAEHLG6"/>
 
 Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.
