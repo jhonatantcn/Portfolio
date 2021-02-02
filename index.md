@@ -12,7 +12,7 @@
     <![endif]-->
 
 <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>jhonatantcn.github.io | Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.</title>
+<title>Jhonatan Néry | Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.</title>
 <meta name="generator" content="Jekyll v3.9.0" />
 <meta property="og:title" content="jhonatantcn.github.io" />
 <meta property="og:locale" content="en_US" />
