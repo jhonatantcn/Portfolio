@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en-US">
 <head>
     <meta charset='utf-8'>
@@ -33,9 +31,9 @@
   <body>
     <header>
       <div class="inner">
-        <a href="https://jhonatantcn.github.io/">
+        <!-- <a href="https://jhonatantcn.github.io/">
           <h1>jhonatantcn.github.io</h1>
-        </a>
+        </a> -->
         <h2>Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.</h2>
         
         
@@ -49,7 +47,7 @@
         <section id="main-content">
           <p><img src="https://raw.githubusercontent.com/jhonatantcn/jhonatantcn.github.io/main/Design/Logo.jpg?token=AKDSSBYX55RPO7W5IQTRTGTAEHLG6" /></p>
 
-<p>Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.</p>
+<!-- <p>Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.</p> -->
 
 <hr />
 <p><img src="https://raw.githubusercontent.com/jhonatantcn/jhonatantcn.github.io/main/Design/Separador.jpg?token=AKDSSB552FXVULTHEYU43MLAEHOUI" /></p>
