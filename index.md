@@ -32,9 +32,9 @@
   <body>
     <header>
       <div class="inner">
-        <a href="https://jhonatantcn.github.io/">
+        <!-- <a href="https://jhonatantcn.github.io/">
           <h1>jhonatantcn.github.io</h1>
-        </a>
+        </a> -->
         <h2>Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.</h2>
         
         
