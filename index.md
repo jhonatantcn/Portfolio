@@ -1,5 +1,5 @@
 <center>
-<p><img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Logo.jpg?token=AKDSSB7H2Q2M25V46XZPRWDAEIX5G" /></p>
+<p><img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Logo.png?token=AKDSSB4M6B463TDIPY2GOGLAEI35Q" /></p>
 </center>
 
 <!-- <p>Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.</p> -->
@@ -50,7 +50,7 @@ Expirar -> Desce.
 • Um responsável (especialista) para acompanhar o uso do jogo.
 <center>
 <section id="video" class="video">
-  <iframe width="820" height="315" src="https://www.youtube.com/embed/ywdSCqlUPME?showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="720" height="315" src="https://www.youtube.com/embed/ywdSCqlUPME?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </section>
 </center>
 
@@ -85,7 +85,7 @@ Minicurso ministrado gratuitamente para a comunidade em junho de 2019, na Univer
 
 <center>
 <section id="video" class="video">
-  <iframe width="820" height="315" src="https://www.youtube.com/embed/INe25IKo6bc?showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="720" height="315" src="https://www.youtube.com/embed/INe25IKo6bc?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </section>
 </center>
 
@@ -105,7 +105,7 @@ Minicurso ministrado gratuitamente para a comunidade em maio de 2019, na Univers
 
 <center>
 <section id="video" class="video">
-  <iframe width="820" height="315" src="https://www.youtube.com/embed/0Io-3Kh73TI?showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="720" height="315" src="https://www.youtube.com/embed/0Io-3Kh73TI?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </section>
 </center>
 
