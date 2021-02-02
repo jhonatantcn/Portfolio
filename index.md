@@ -80,7 +80,7 @@ ___
 
 
 # Minicurso Unity 2D
-Minicurso ministrado gratuitamente para a comunidade em junho de 2019, na Universidade do Estado de Santa Catarina, com o desenvolvimento do seguinte projeto 2D.
+Minicurso ministrado por mim gratuitamente para a comunidade em junho de 2019, na Universidade do Estado de Santa Catarina, com o desenvolvimento do seguinte projeto 2D.
 
 <center>
 <section id="video" class="video">
@@ -107,7 +107,7 @@ ___
 <img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS"/>
 
 # Minicurso Unity 3D
-Minicurso ministrado gratuitamente para a comunidade em maio de 2019, na Universidade do Estado de Santa Catarina, com o desenvolvimento do seguinte projeto 3D.
+Minicurso ministrado por mim gratuitamente para a comunidade em maio de 2019, na Universidade do Estado de Santa Catarina, com o desenvolvimento do seguinte projeto 3D.
 
 <center>
 <section id="video" class="video">
