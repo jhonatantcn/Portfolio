@@ -6,6 +6,8 @@
 
 <hr />
 <p><img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS" /></p>
+___
+
 <h1 id="i-blue-it-40--multimodal">I Blue It 4.0 : Multimodal</h1>
 
 <b>"I Blue It 4.0"</b> é um Jogo Sério para Reabilitação Respiratória. O jogador controla o golfinho Blue em sua viagem pelas fases do jogo e tem como objetivo auxiliar na reabilitação respiratória.
@@ -47,7 +49,7 @@ Expirar -> Desce.
 
 • Sistema Operacional: Windows / Linux;
 
-• Pitaco, ou Mano-BD, ou Cinta de Pressão (dispositivos de controle, pode se escolher algum deles, não é necessária a construção de todos, os manuais estão abaixo), com possibilidade de uso em conjunto com um Oxímetro de Pulso;
+• Pitaco, ou Mano-BD, ou Cinta de Pressão (dispositivos de controle, pode se escolher algum deles, não é necessária a construção de todos), com possibilidade de uso em conjunto com um Oxímetro de Pulso Digital;
 
 • Pacote de instalação do jogo (link abaixo);
 
@@ -74,9 +76,9 @@ Expirar -> Desce.
     - Linux [Download](https://drive.google.com/uc?export=download&id=1nJZvCeM6dzT80JGBltkeQ2m-PVZk1fK7)
     - Controles: Pitaco ou Mano-BD
 
-
 ___
 <img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS"/>
+___
 
 
 # Minicurso Unity 2D
@@ -105,6 +107,7 @@ Conteúdo Prático:
 
 ___
 <img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS"/>
+___
 
 # Minicurso Unity 3D
 Minicurso ministrado por mim gratuitamente para a comunidade em maio de 2019, na Universidade do Estado de Santa Catarina, com o desenvolvimento do seguinte projeto 3D.
@@ -140,8 +143,8 @@ Conteúdo Prático:
 -	Projeto 3D: Assets padrão Unity (esfera, player, câmera); Texturas (Internet); Criação de 1 fase com formas geométricas; Criação de 1 fase com terreno; SavePoint; Comandos input personalizados.
 
 ___
-
 <img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS"/>
+___
 
 <center>Todos os direitos reservados a Jhonatan Néry.</center>
 
