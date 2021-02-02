@@ -9,7 +9,9 @@
 <h1 id="i-blue-it-40--multimodal">I Blue It 4.0 : Multimodal</h1>
 
 <center>
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/I%20Blue%20It%204.0/1.PNG?token=AKDSSB76T6JTTYNWJ7QP5TLAEIOTA"/>
+<section id="video" class="video">
+  <iframe width="690" height="315" src="https://www.youtube.com/embed/ywdSCqlUPME?showinfo=0" frameborder="0" allowfullscreen></iframe>
+</section>
 </center>
 
 <b>"I Blue It 4.0"</b> é um Jogo Sério para Reabilitação Respiratória. O jogador controla o golfinho Blue em sua viagem pelas fases do jogo e tem como objetivo auxiliar na reabilitação respiratória.
@@ -48,10 +50,9 @@ Expirar -> Desce.
 • Pacote de instalação do jogo (link abaixo);
 
 • Um responsável (especialista) para acompanhar o uso do jogo.
+
 <center>
-<section id="video" class="video">
-  <iframe width="690" height="315" src="https://www.youtube.com/embed/ywdSCqlUPME?showinfo=0" frameborder="0" allowfullscreen></iframe>
-</section>
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/I%20Blue%20It%204.0/1.PNG?token=AKDSSB76T6JTTYNWJ7QP5TLAEIOTA"/>
 </center>
 
 <center>
@@ -80,13 +81,13 @@ ___
 Minicurso ministrado gratuitamente para a comunidade em junho de 2019, na Universidade do Estado de Santa Catarina, com o desenvolvimento do seguinte projeto 2D.
 
 <center>
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Projeto%202D%20Minicurso/2DCapa.JPG?token=AKDSSB55UKOJY55NL3JE7NTAEIPBO"/>
-</center>
-
-<center>
 <section id="video" class="video">
   <iframe width="690" height="315" src="https://www.youtube.com/embed/INe25IKo6bc?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </section>
+</center>
+
+<center>
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Projeto%202D%20Minicurso/2DCapa.JPG?token=AKDSSB55UKOJY55NL3JE7NTAEIPBO"/>
 </center>
 
 <center>
@@ -100,13 +101,13 @@ ___
 Minicurso ministrado gratuitamente para a comunidade em maio de 2019, na Universidade do Estado de Santa Catarina, com o desenvolvimento do seguinte projeto 3D.
 
 <center>
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Projeto%203D%20Minicurso/3DCapa.png?token=AKDSSBYWEAFEYRJMBCYJKYDAEIPE6"/>
-</center>
-
-<center>
 <section id="video" class="video">
   <iframe width="690" height="315" src="https://www.youtube.com/embed/0Io-3Kh73TI?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </section>
+</center>
+
+<center>
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Projeto%203D%20Minicurso/3DCapa.png?token=AKDSSBYWEAFEYRJMBCYJKYDAEIPE6"/>
 </center>
 
 <center>
