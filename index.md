@@ -24,7 +24,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="jhonatantcn.github.io" />
 <script type="application/ld+json">
-{"url":"https://jhonatantcn.github.io/","@type":"WebSite","headline":"jhonatantcn.github.io","description":"Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.","name":"jhonatantcn.github.io","@context":"https://schema.org"}</script>
+{"url":"https://jhonatantcn.github.io/","@type":"WebSite","headline":"Jhonatan Néry","description":"Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.","name":"jhonatantcn.github.io","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
