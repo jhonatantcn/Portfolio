@@ -2,7 +2,7 @@
 
 Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.
 
-<img src="https://raw.githubusercontent.com/jhonatantcn/jhonatantcn.github.io/main/Design/Separador.jpg?token=AKDSSB552FXVULTHEYU43MLAEHOUI" class="name-city-panorama-fundo" longdesc="https://raw.githubusercontent.com/jhonatantcn/jhonatantcn.github.io/main/Design/Separador.jpg?token=AKDSSB552FXVULTHEYU43MLAEHOUI">
+<img src="https://raw.githubusercontent.com/jhonatantcn/jhonatantcn.github.io/main/Design/fundotela.png?token=AKDSSB7EW6KUQBPN6L7GYITAEHYAY" class="name-city-panorama-fundo" longdesc="https://raw.githubusercontent.com/jhonatantcn/jhonatantcn.github.io/main/Design/fundotela.png?token=AKDSSB7EW6KUQBPN6L7GYITAEHYAY">
 ___
 <img src="https://raw.githubusercontent.com/jhonatantcn/jhonatantcn.github.io/main/Design/Separador.jpg?token=AKDSSB552FXVULTHEYU43MLAEHOUI"/>
 # I Blue It 4.0 : Multimodal
