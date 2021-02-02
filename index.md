@@ -45,7 +45,7 @@
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
-          <p><img src="https://raw.githubusercontent.com/jhonatantcn/jhonatantcn.github.io/main/Design/Logo.jpg?token=AKDSSBYX55RPO7W5IQTRTGTAEHLG6" /></p>
+          <p><img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Logo.jpg?token=AKDSSB7H2Q2M25V46XZPRWDAEIX5G" /></p>
 
 <!-- <p>Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.</p> -->
 
