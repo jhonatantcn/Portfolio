@@ -30,8 +30,6 @@
 
 <img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Logo.jpg?token=AKDSSB4FTO4YNOONCNQ74YLAEIOQG"/>
 
-Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.
-
 ___
 <img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS"/>
 # I Blue It 4.0 : Multimodal
@@ -78,7 +76,7 @@ Expirar -> Desce.
 • Um responsável (especialista) para acompanhar o uso do jogo.
 <center>
 <section id="video" class="video">
-  <iframe src="https://www.youtube.com/embed/ywdSCqlUPME?showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="853" height="480" src="https://www.youtube.com/embed/ywdSCqlUPME?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </section>
 </center>
 
@@ -113,7 +111,7 @@ Minicurso ministrado gratuitamente para a comunidade em junho de 2019, na Univer
 
 <center>
 <section id="video" class="video">
-  <iframe src="https://www.youtube.com/embed/INe25IKo6bc?showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="853" height="480" src="https://www.youtube.com/embed/INe25IKo6bc?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </section>
 </center>
 
@@ -133,7 +131,7 @@ Minicurso ministrado gratuitamente para a comunidade em maio de 2019, na Univers
 
 <center>
 <section id="video" class="video">
-  <iframe src="https://www.youtube.com/embed/0Io-3Kh73TI?showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="853" height="480" src="https://www.youtube.com/embed/0Io-3Kh73TI?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </section>
 </center>
 
