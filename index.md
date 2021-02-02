@@ -27,16 +27,17 @@
 
   </head>
 
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Logo.jpg?token=AKDSSBYX55RPO7W5IQTRTGTAEHLG6"/>
+
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Logo.jpg?token=AKDSSB4FTO4YNOONCNQ74YLAEIOQG"/>
 
 Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.
 
 ___
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB552FXVULTHEYU43MLAEHOUI"/>
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS"/>
 # I Blue It 4.0 : Multimodal
 
 <center>
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/I%20Blue%20It%204.0/1.PNG?token=AKDSSB2ZS5YHC65OG3B74XLAEHO6S"/>
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/I%20Blue%20It%204.0/1.PNG?token=AKDSSB76T6JTTYNWJ7QP5TLAEIOTA"/>
 </center>
 
 <b>"I Blue It 4.0"</b> é um Jogo Sério para Reabilitação Respiratória. O jogador controla o golfinho Blue em sua viagem pelas fases do jogo e tem como objetivo auxiliar na reabilitação respiratória.
@@ -77,16 +78,16 @@ Expirar -> Desce.
 • Um responsável (especialista) para acompanhar o uso do jogo.
 <center>
 <section id="video" class="video">
-  <iframe width="853" height="480" src="https://www.youtube.com/embed/ywdSCqlUPME?showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/ywdSCqlUPME?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </section>
 </center>
 
 <center>
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/I%20Blue%20It%204.0/2.PNG?token=AKDSSB7N4TENFEVDVAH3APDAEHPBG"/>
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/I%20Blue%20It%204.0/2.PNG?token=AKDSSB3ONQDUCTCS3NTHKIDAEIOUW"/>
 </center>
 
 <center>
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/I%20Blue%20It%204.0/Pitaco_Mano.jpg?token=AKDSSB4FD3RSSBHLYG7RYBTAEHPEO"/>
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/I%20Blue%20It%204.0/Pitaco_Mano.jpg?token=AKDSSB7J7B2DNOAWF2RIXGTAEIOXA"/>
 </center>
 
 ### Downloads do jogo:
@@ -100,48 +101,48 @@ Expirar -> Desce.
 
 
 ___
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB552FXVULTHEYU43MLAEHOUI"/>
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS"/>
 
 
 # Minicurso Unity 2D
 Minicurso ministrado gratuitamente para a comunidade em junho de 2019, na Universidade do Estado de Santa Catarina, com o desenvolvimento do seguinte projeto 2D.
 
 <center>
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Projeto%202D%20Minicurso/2DCapa.JPG?token=AKDSSB2XL3GPZITUPTJ7XVLAEHQCW"/>
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Projeto%202D%20Minicurso/2DCapa.JPG?token=AKDSSB55UKOJY55NL3JE7NTAEIPBO"/>
 </center>
 
 <center>
 <section id="video" class="video">
-  <iframe width="853" height="480" src="https://www.youtube.com/embed/INe25IKo6bc?showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/INe25IKo6bc?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </section>
 </center>
 
 <center>
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Projeto%202D%20Minicurso/2D.png?token=AKDSSBYQMOUK2ZK66GDBEZDAEHP6I"/>
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Projeto%202D%20Minicurso/2D.png?token=AKDSSB7CGJNZ2D7IUKWKSX3AEIPC6"/>
 </center>
 
 ___
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB552FXVULTHEYU43MLAEHOUI"/>
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS"/>
 
 # Minicurso Unity 3D
 Minicurso ministrado gratuitamente para a comunidade em maio de 2019, na Universidade do Estado de Santa Catarina, com o desenvolvimento do seguinte projeto 3D.
 
 <center>
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Projeto%203D%20Minicurso/3DCapa.png?token=AKDSSB3X7WNDRSBXYZ3ZCW3AEHQFQ"/>
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Projeto%203D%20Minicurso/3DCapa.png?token=AKDSSBYWEAFEYRJMBCYJKYDAEIPE6"/>
 </center>
 
 <center>
 <section id="video" class="video">
-  <iframe width="853" height="480" src="https://www.youtube.com/embed/0Io-3Kh73TI?showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/0Io-3Kh73TI?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </section>
 </center>
 
 <center>
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Projeto%203D%20Minicurso/3D.png?token=AKDSSB6CCJNZZOTLCBUS5RLAEHQHC"/>
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Projeto%203D%20Minicurso/3D.png?token=AKDSSB7Q3EEMJC7H7TUXXM3AEIPGU"/>
 </center>
 ___
 
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB552FXVULTHEYU43MLAEHOUI"/>
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS"/>
 
 <center>Todos os direitos reservados a Jhonatan Néry.</center>
 
