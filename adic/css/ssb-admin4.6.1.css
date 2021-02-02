@@ -1,0 +1,125 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*Admin CSS*/
+
+.ssb-settings ul.tab-nav {
+  clear: both;
+  margin: 0;
+  padding: 0;
+}
+
+.ssb-settings ul.tab-nav li {
+  background: none repeat scroll 0 0 rgb(230, 230, 230);
+  border-left: 1px solid rgb(199, 199, 199);
+  cursor: pointer;
+  display: inline-block;
+  float: left;
+  margin: 0;
+  padding: 8px 15px;
+}
+
+.ssb-settings ul.tab-nav li.active{
+	background:#d8d6d6;
+	border-top:3px solid #11b063;
+	padding-top:6px;
+	}
+.ssb-settings ul.box {
+  clear: both;
+  margin: 0;
+  padding: 0;
+}
+
+.ssb-settings ul.box li.tab-box {
+  border: 1px solid rgb(153, 153, 153);
+  display: none;
+  margin: 0;
+  width: 100%;
+}
+
+.ssb-settings .tab-box .option-box {
+  border-left: 3px solid rgb(255, 255, 255);
+  margin: 10px;
+  padding: 10px;
+}
+.ssb-settings .tab-box .option-box:hover {
+  background: #e6e6e6;
+  border-left: 3px solid #11b063;
+}
+
+
+.ssb-settings .tab-box .option-box .option-title {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.ssb-settings .tab-box .option-box .option-info {
+  color: rgb(73, 147, 14);
+  font-size: 13px;
+  font-weight: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
