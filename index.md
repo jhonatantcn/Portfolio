@@ -5,7 +5,7 @@ Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto o
 
 ___
 <img src="https://raw.githubusercontent.com/jhonatantcn/jhonatantcn.github.io/main/Design/Separador.jpg?token=AKDSSB552FXVULTHEYU43MLAEHOUI"/>
-## I Blue It 4.0 : Multimodal
+# I Blue It 4.0 : Multimodal
 
 <center>
 <img src="https://raw.githubusercontent.com/jhonatantcn/jhonatantcn.github.io/main/I%20Blue%20It%204.0/1.PNG?token=AKDSSB2ZS5YHC65OG3B74XLAEHO6S"/>
@@ -75,7 +75,7 @@ ___
 <img src="https://raw.githubusercontent.com/jhonatantcn/jhonatantcn.github.io/main/Design/Separador.jpg?token=AKDSSB552FXVULTHEYU43MLAEHOUI"/>
 
 
-## Minicurso Unity 2D
+# Minicurso Unity 2D
 Minicurso ministrado gratuitamente para a comunidade em junho de 2019, na Universidade do Estado de Santa Catarina, com o desenvolvimento do seguinte projeto 2D.
 
 <center>
@@ -95,7 +95,7 @@ Minicurso ministrado gratuitamente para a comunidade em junho de 2019, na Univer
 ___
 <img src="https://raw.githubusercontent.com/jhonatantcn/jhonatantcn.github.io/main/Design/Separador.jpg?token=AKDSSB552FXVULTHEYU43MLAEHOUI"/>
 
-## Minicurso Unity 3D
+# Minicurso Unity 3D
 Minicurso ministrado gratuitamente para a comunidade em maio de 2019, na Universidade do Estado de Santa Catarina, com o desenvolvimento do seguinte projeto 3D.
 
 <center>
@@ -114,3 +114,5 @@ Minicurso ministrado gratuitamente para a comunidade em maio de 2019, na Univers
 ___
 
 <img src="https://raw.githubusercontent.com/jhonatantcn/jhonatantcn.github.io/main/Design/Separador.jpg?token=AKDSSB552FXVULTHEYU43MLAEHOUI"/>
+
+<center>Todos os direitos reservados a Jhonatan Néry.</center>
