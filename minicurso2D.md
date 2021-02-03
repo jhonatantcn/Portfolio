@@ -1,10 +1,10 @@
 <center>
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Logo.png?token=AKDSSB4M6B463TDIPY2GOGLAEI35Q" />
+<img src="./Assets/Logo.png"/>
 </center>
 
 <!-- <p>Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.</p> -->
 
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS" />
+<img src="./Assets/Separador.jpg"/>
 
 <style type="text/css">
 <!--
@@ -46,6 +46,15 @@ padding-right: 57px;
 #page-bar li a:hover {
 color: #000000;
 font-weight: bold;}
+
+#Social{
+  position: absolute;
+  left: 50%;
+  margin-top: -70px;
+  margin-left: 195px; /*Sempre a metade da largura do elemento*/
+  width: 300px;
+  height: 300px;
+}
 -->
 </style>
 
@@ -67,6 +76,20 @@ font-weight: bold;}
 </a></li>
 </ul>
 
+<div id="Social">
+<a href="https://www.linkedin.com/in/jhonatantcn/" class="button">
+<img src="./Assets/Linkedin.png">
+</a>
+
+<a href="https://www.facebook.com/jhonatantcn/" class="button">
+<img src="./Assets/Facebook.png">
+</a>
+
+<a href="mailto:jhonatanthallisson@gmail.com" class="button">
+<img src="./Assets/Mail.png">
+</a>
+</div>
+
 <!-- CONTADOR DE VISITAS -->
 <div id="sfcjj1a15uw8b63ksdkylrl2xj2atgftcng"></div>
 <script type="text/javascript" src="https://counter8.stat.ovh/private/counter.js?c=jj1a15uw8b63ksdkylrl2xj2atgftcng&down=async" async></script>
@@ -74,7 +97,7 @@ font-weight: bold;}
 <!-- CONTADOR DE VISITAS -->
 
 
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS" />
+<img src="./Assets/Separador.jpg"/>
 <hr />
 
 
@@ -88,11 +111,11 @@ Minicurso ministrado por mim gratuitamente para a comunidade em junho de 2019, n
 </center>
 
 <center>
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Projeto%202D%20Minicurso/2DCapa.JPG?token=AKDSSB55UKOJY55NL3JE7NTAEIPBO"/>
+<img src="./Projeto%202D%20Minicurso/2DCapa.JPG"/>
 </center>
 
 <center>
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Projeto%202D%20Minicurso/2D.png?token=AKDSSB7CGJNZ2D7IUKWKSX3AEIPC6"/>
+<img src="./Projeto%202D%20Minicurso/2D.png"/>
 </center>
 
 Conteúdo Teórico: 
@@ -103,7 +126,7 @@ Conteúdo Prático:
 -	Projeto 2D: Sprites; Cenário 2D; Tilemap; Tile Palette; Sprite Renderer e Tilemap Renderer; Collider 2D; Rigidbody 2D; Animação; Scripts; Score e vidas do personagem; Botões; SavePoint; Inimigos; Comandos input personalizados; Canvas; Menu pause; Tela Game Over; Tela de login; Uso do MAMP para emular um banco de dados local; SQL Basico; PHP voltado para mysql; Telas de Cadastro e login; Interação das telas com o banco usando Unity , C# e PHP.
 
 <hr />
-<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS"/>
+<img src="./Assets/Separador.jpg"/>
 <hr />
 
 <center>Todos os direitos reservados.</center>
