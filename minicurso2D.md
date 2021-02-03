@@ -73,6 +73,35 @@ font-weight: bold;}
 <noscript><a href="https://www.webcontadores.com" title="contador de visitas para blog"><img src="https://counter8.stat.ovh/private/webcontadores.php?c=jj1a15uw8b63ksdkylrl2xj2atgftcng" border="0" title="contador de visitas para blog" alt="contador de visitas para blog"></a></noscript>
 <!-- CONTADOR DE VISITAS -->
 
+
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS" />
+<hr />
+
+
+# Minicurso Unity 2D
+Minicurso ministrado por mim gratuitamente para a comunidade em junho de 2019, na Universidade do Estado de Santa Catarina, com o desenvolvimento do seguinte projeto 2D.
+
+<center>
+<section id="video" class="video">
+  <iframe width="100%" src="https://www.youtube.com/embed/INe25IKo6bc?showinfo=0" frameborder="0" allowfullscreen></iframe>
+</section>
+</center>
+
+<center>
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Projeto%202D%20Minicurso/2DCapa.JPG?token=AKDSSB55UKOJY55NL3JE7NTAEIPBO"/>
+</center>
+
+<center>
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Projeto%202D%20Minicurso/2D.png?token=AKDSSB7CGJNZ2D7IUKWKSX3AEIPC6"/>
+</center>
+
+Conteúdo Teórico: 
+-	Revisão: Visão geral das telas da Unity; Opções de Movimentação/Visão no Unity; Câmeras; Iluminação; Componentes; Asset Store.
+
+Conteúdo Prático:
+-	Visão 2D;
+-	Projeto 2D: Sprites; Cenário 2D; Tilemap; Tile Palette; Sprite Renderer e Tilemap Renderer; Collider 2D; Rigidbody 2D; Animação; Scripts; Score e vidas do personagem; Botões; SavePoint; Inimigos; Comandos input personalizados; Canvas; Menu pause; Tela Game Over; Tela de login; Uso do MAMP para emular um banco de dados local; SQL Basico; PHP voltado para mysql; Telas de Cadastro e login; Interação das telas com o banco usando Unity , C# e PHP.
+
 <hr />
 <img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS"/>
 <hr />

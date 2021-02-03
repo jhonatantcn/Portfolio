@@ -73,6 +73,44 @@ font-weight: bold;}
 <noscript><a href="https://www.webcontadores.com" title="contador de visitas para blog"><img src="https://counter8.stat.ovh/private/webcontadores.php?c=jj1a15uw8b63ksdkylrl2xj2atgftcng" border="0" title="contador de visitas para blog" alt="contador de visitas para blog"></a></noscript>
 <!-- CONTADOR DE VISITAS -->
 
+
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS" />
+<hr />
+
+
+# Minicurso Unity 3D
+Minicurso ministrado por mim gratuitamente para a comunidade em maio de 2019, na Universidade do Estado de Santa Catarina, com o desenvolvimento do seguinte projeto 3D.
+
+<center>
+<section id="video" class="video">
+  <iframe width="100%" src="https://www.youtube.com/embed/0Io-3Kh73TI?showinfo=0" frameborder="0" allowfullscreen></iframe>
+</section>
+</center>
+
+<center>
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Projeto%203D%20Minicurso/3DCapa.png?token=AKDSSBYWEAFEYRJMBCYJKYDAEIPE6"/>
+</center>
+
+<center>
+<img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Projeto%203D%20Minicurso/3D.png?token=AKDSSB7Q3EEMJC7H7TUXXM3AEIPGU"/>
+</center>
+
+Conteúdo Teórico: 
+-	Guia geral para criação de Jogos;
+-	Jogos Indie;
+-	Unity engine.
+
+Conteúdo Prático:
+-	Teste de jogo 3D pronto como forma de entender o conceito;
+-	Download UnityHub e Unity;
+-	Visão geral das telas da Engine Unity;
+-	Opções de Movimentação/Visão no Unity;
+-	Câmeras;
+-	Iluminação;
+-	Componentes;
+-	Asset Store;
+-	Projeto 3D: Assets padrão Unity (esfera, player, câmera); Texturas (Internet); Criação de 1 fase com formas geométricas; Criação de 1 fase com terreno; SavePoint; Comandos input personalizados.
+
 <hr />
 <img src="https://raw.githubusercontent.com/jhonatantcn/Portfolio/main/Design/Separador.jpg?token=AKDSSB63N365GDNN2KY6O5LAEIORS"/>
 <hr />
