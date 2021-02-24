@@ -74,6 +74,18 @@ font-weight: bold;}
   <small>Projeto</small>
     Minicurso 3D
 </a></li>
+
+<li><a href="./pongChallengeMirror" class="button">
+  <small>Projeto</small>
+    Pong Network Challenge
+  <small>(Mirror)</small>
+</a></li>
+
+<li><a href="./pongChallengePhoton" class="button">
+  <small>Projeto</small>
+    Pong Network Challenge
+  <small>(Photon)</small>
+</a></li>
 </ul>
 
 <div id="Social">

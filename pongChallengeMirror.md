@@ -108,78 +108,50 @@ font-weight: bold;}
 <noscript><a href="https://www.webcontadores.com" title="contador de visitas para blog"><img src="https://counter8.stat.ovh/private/webcontadores.php?c=jj1a15uw8b63ksdkylrl2xj2atgftcng" border="0" title="contador de visitas para blog" alt="contador de visitas para blog"></a></noscript>
 <!-- CONTADOR DE VISITAS -->
 
-<!-- <p>Portfólio de Jhonatan Néry com os principais trabalhos desenvolvidos, exceto os projetos que envolvem direitos autorais privados.</p> -->
 
 <img src="./Assets/Separador.jpg"/>
 <hr />
 
-<h1 id="i-blue-it-40--multimodal">I Blue It 4.0 : Multimodal</h1>
 
-<b>"I Blue It 4.0"</b> é um Jogo Sério para Reabilitação Respiratória. O jogador controla o golfinho Blue em sua viagem pelas fases do jogo e tem como objetivo auxiliar na reabilitação respiratória.
-
-<center>
-<section id="video" class="video">
-  <iframe width="100%" src="https://www.youtube.com/embed/ywdSCqlUPME?showinfo=0" frameborder="0" allowfullscreen></iframe>
-</section>
-</center>
-
-
-
-## Público Alvo:
-
-Jogadores com enfermidades respiratórias (crianças e adultos).
-
-## Funcionamento:
-
-O jogo digital se comunica com um ou mais dos dispositivos abaixo:
-
-- Pitaco;
-- Mano-BD;
-- Cinta de Pressão;
-- Oxímetro de Pulso Digital.
- 
-Estes permitem a captura do processo respiratório do jogador (exceto o Oxímetro que captura a oxigenação e frequência cardíaca). Os movimentos do Blue (o golfinho) são controlados em função das ações respiratórias (inspirar ou expirar) que o jogador fizer no dispositivo.
-
-## Regras:
-
-O jogador deve capturar alvos (verdes) e desviar de obstáculos (vermelhos) para pontuar e passar de nível.
-
-## Controles: 
-
-Você usa a sua respiração como controle. 
-Inspirar -> Sobe; 
-Expirar -> Desce.
-
-## Requisitos:
-
-• Sistema Operacional: Windows / Linux;
-
-• Pitaco, ou Mano-BD, ou Cinta de Pressão (dispositivos de controle, pode se escolher algum deles, não é necessária a construção de todos), com possibilidade de uso em conjunto com um Oxímetro de Pulso Digital;
-
-• Pacote de instalação do jogo (link abaixo);
-
-• Um responsável (especialista) para acompanhar o uso do jogo.
+# Pong Network Challenge - Mirror
+Jogo Pong Multiplayer em rede local.
 
 <center>
-<img src="./I%20Blue%20It%204.0/1.PNG"/>
+<img src="./Projeto%20Pong%20Mirror/Tela1.png"/>
 </center>
 
 <center>
-<img src="./I%20Blue%20It%204.0/2.PNG"/>
+<img src="./Projeto%20Pong%20Mirror/Tela2.png"/>
 </center>
 
 <center>
-<img src="./I%20Blue%20It%204.0/Pitaco_Mano.jpg"/>
+<img src="./Projeto%20Pong%20Mirror/ConnectMenu.png"/>
 </center>
 
-## Downloads do jogo:
+<center>
+<img src="./Projeto%20Pong%20Mirror/Tela3.png"/>
+</center>
 
-- <b>[Versão 4.0 - MULTIMODAL]  - Links em breve!</b>
+<center>
+<img src="./Projeto%20Pong%20Mirror/Tela4.png"/>
+</center>
 
-- <b>[Versão 2.0 - DUO] </b>
-    - Windows [Download](https://drive.google.com/uc?export=download&id=1MAhLxF3t0rSUKxcubV1fMw9zinzY-z2Q)
-    - Linux [Download](https://drive.google.com/uc?export=download&id=1nJZvCeM6dzT80JGBltkeQ2m-PVZk1fK7)
-    - Controles: Pitaco ou Mano-BD
+
+## Especificidades técnicas do projeto
+
+- O Pong Network Challenge (Mirror) foi desenvolvido através do uso da engine Unity 2020.1.16f1 somada a API Mirror (Asset Store) para gerenciar a rede local;
+- Este é um projeto 2D;
+- Foi utilizado como base o projeto de Pong contido na API Mirror;
+- Foi criada uma scene “Main” (título inicial) e uma scene “Pong” (jogo);
+- Foi adicionada na scene “Main” uma iluminação do tipo “Point”, para criar foco no título do jogo;
+- O tamanho (atributo Size) da câmera com projeção ortográfica da scene “Pong” foi calculada de acordo com o recomendado em https://producaodejogos.com/camera-ortografica-no-unity/, no entanto o resultado recomendado de Size (para mostrar somente a mesa de jogo) foi multiplicado por 2 propositalmente para enquadrar o dobro do tamanho da mesa;
+- Foi utilizado TextMesh Pro em vez de Text nos textos, pois seu uso é melhor recomendado em https://blogs.unity3d.com/2018/10/16/making-the-most-of-textmesh-pro-in-unity-2018/;
+- A bola é jogada randomicamente  de seu ponto de origem (centro da tela) para a direita(cima ou baixo) ou esquerda(cima ou baixo);
+
+No jogo os botões de conexão significam:
+- **I’m: Server Only**: Sou somente o servidor;
+- **I’m: Host (Server + Client)**: Sou servidor, mas também sou um cliente;
+- **I’m: Client (Server IP)**: Sou um cliente, então preciso inserir no campo a frente o IP de rede do servidor.
 
 <hr />
 <img src="./Assets/Separador.jpg"/>
