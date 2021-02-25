@@ -138,6 +138,22 @@ Jogo Pong Multiplayer online, com simulação e compensação de alta latência,
 <img src="./Projeto%20Pong%20Photon/TelaSimulationLag.png"/>
 </center>
 
+## Especificidades técnicas do projeto
+
+- O Pong Network Challenge (Photon) foi desenvolvido através do uso da engine Unity 2020.1.16f1 somada a API PUN2 (Photon Unity Networking 2);
+- Se trata de um projeto 3D, porém com shaders do tipo “Sprite” aplicados aos objetos para que lembre o jogo clássico 2D;
+- Optou-se por criar uma cena única, mas com duas telas ativadas e desativadas no decorrer da navegação;
+- Iluminação do tipo “Point” foi aplicada para criar foco no título do jogo;
+- Foi aplicado na bola um material físico que simula a elasticidade de uma bola emborrachada;
+- Photon Unity Network 2 Free:
+  - Foi criada uma aplicação no Photon Public Cloud relacionada ao Pong Challenge, esta aplicação gerou um ID que foi inserido na API  PUN 2 FREE (Photon Unity Network 2 Free) importada para o projeto Unity. Este ID é utilizado como ponto de referência para as máquinas que desejarem adentrar à rede;
+  - O Photon Public Cloud é um servidor de sinalização (Serve apenas para armazenar os IPS e as portas dos jogadores conectados) ele aponta as máquinas executando aplicações PUN com o mesmo ID;
+  - PUN é uma base sólida para qualquer tipo de jogo multijogador baseado em salas no Unity; promete facilidade de implementação com desempenho, confiabilidade e escalabilidade;
+  - Uma vez conectado, o jogador recebe o IP dos outros jogadores, não importa onde o servidor do Photon esteja sendo executado, pois o servidor de sinalização apenas é utilizado na criação da conexão, após criada os jogadores se conectam diretamente;
+  - No Pong Challenge, o servidor do jogo é o primeiro jogador que executá-lo, se tornando um host. O segundo jogador é somente cliente.
+  - Para um objeto aparecer para todos os jogadores preciso adicionar o scrip “Photon View” que observa o comportamento do objeto.
+
+
 ## Game Design Document (GDD)
 
 Game Design Document (GDD) é o documento guia do processo de desenvolvimento de um jogo e é dependente do contexto de cada projeto.
@@ -181,21 +197,6 @@ Caso a bola toque na parede vertical atrás de um dos jogadores, o jogador adver
 
 Não existem nesta versão: níveis, limites de jogo (tempo, ou pontuação), ficando para os jogadores estipularem a meta de jogo.
 
-
-## Especificidades técnicas do projeto
-
-- O Pong Network Challenge (Photon) foi desenvolvido através do uso da engine Unity 2020.1.16f1 somada a API PUN2 (Photon Unity Networking 2);
-- Se trata de um projeto 3D, porém com shaders do tipo “Sprite” aplicados aos objetos para que lembre o jogo clássico 2D;
-- Optou-se por criar uma cena única, mas com duas telas ativadas e desativadas no decorrer da navegação;
-- Iluminação do tipo “Point” foi aplicada para criar foco no título do jogo;
-- Foi aplicado na bola um material físico que simula a elasticidade de uma bola emborrachada;
-- Photon Unity Network 2 Free:
-  - Foi criada uma aplicação no Photon Public Cloud relacionada ao Pong Challenge, esta aplicação gerou um ID que foi inserido na API  PUN 2 FREE (Photon Unity Network 2 Free) importada para o projeto Unity. Este ID é utilizado como ponto de referência para as máquinas que desejarem adentrar à rede;
-  - O Photon Public Cloud é um servidor de sinalização (Serve apenas para armazenar os IPS e as portas dos jogadores conectados) ele aponta as máquinas executando aplicações PUN com o mesmo ID;
-  - PUN é uma base sólida para qualquer tipo de jogo multijogador baseado em salas no Unity; promete facilidade de implementação com desempenho, confiabilidade e escalabilidade;
-  - Uma vez conectado, o jogador recebe o IP dos outros jogadores, não importa onde o servidor do Photon esteja sendo executado, pois o servidor de sinalização apenas é utilizado na criação da conexão, após criada os jogadores se conectam diretamente;
-  - No Pong Challenge, o servidor do jogo é o primeiro jogador que executá-lo, se tornando um host. O segundo jogador é somente cliente.
-  - Para um objeto aparecer para todos os jogadores preciso adicionar o scrip “Photon View” que observa o comportamento do objeto.
 
 <hr />
 <img src="./Assets/Separador.jpg"/>
