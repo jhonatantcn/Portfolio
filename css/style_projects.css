@@ -147,7 +147,7 @@ footer p {
     line-height: 5vh;
 }
 
-@media only screen and (max-width: 750px) or (orientation: portrait) {
+@media (max-width: 750px) {
     main {
         flex-direction: column;
         align-items: center;
