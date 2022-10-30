@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Jhonatan Néry</title>
+    <link rel="stylesheet" href="../css/style_projects.css">
+    <link href="https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap" rel="stylesheet">
+</head>
+
+
+<main>
+    <section>
+        <h2>Project</h2>
+
+        <div id="projectBody">
+
+            <h1 id="title">Pong Network <small>(Photon)</small></h1>
+
+            <h2>Platform:</h2>
+            <p>Windows (Computer)</p>
+
+            <h2>Description:</h2>
+
+            <p>
+                <b id="projectName"></b> it was developed using the Unity 2020.1.16f1 engine plus the PUN2 API (Photon Unity Networking 2);
+                <br/>- This is a 3D project, but with “Sprite” shaders applied to objects to remind you of the classic 2D game;
+                <br/>- We chose to create a single scene, but with two screens activated and deactivated during the navigation;
+                <br/>- Point lighting was applied to create focus on the game title;
+                <br/>- It was applied to the ball a physical material that simulates the elasticity of a rubber ball;
+                <br/>- Photon Unity Network 2 Free:
+                <br/>- An application was created in the Photon Public Cloud related to the Pong Challenge, this application generated an ID that was entered in the PUN 2 FREE API (Photon Unity Network 2 Free) imported into the Unity project. This ID
+                is used as a reference point for machines wishing to join the network;
+                <br/>- The Photon Public Cloud is a signaling server (It only serves to store the IPS and ports of the connected players) it points to machines running PUN applications with the same ID;
+                <br/>- PUN is a solid foundation for any type of room-based multiplayer game in Unity; promises ease of implementation with performance, reliability, and scalability;
+                <br/>- Once connected, the player receives the IP of the other players, no matter where the Photon server is running, because the signaling server is only used in the creation of the connection, after created the players connect directly;
+                <br/>- In Pong Challenge, the game server is the first player to run it, becoming a host. The second player is client only.
+                <br/>- For an object to appear for all players I need to add the “Photon View” script that observes the behavior of the object.
+                <br/>
+            </p>
+
+            <h2>Game Design Document (GDD)</h2>
+            <p>
+                Game Design Document (GDD) is the document that guides the process of developing a game and is dependent on the context of each project.
+            </p>
+
+            <br/>
+
+            <h3>The Game: </h3>
+            <p>
+                Pong is a sports game developed and published by Atari in 1972. The Pong Challenge developed in this project is an interpretation from the original.
+            </p>
+
+            <h3>Objective:</h3>
+            <p>
+                It has a similar proposal to the sports game called table tennis.
+            </p>
+
+            <h3>Software and Hardware:</h3>
+            <p>
+                The emailed build generated in the Unity engine is specific to run on platforms with Microsoft Windows operating systems. However, the engine allows the creation of executables for different operating systems (Android, Linux, etc.) and different platforms
+                (Computer, Smartphone, etc.).
+            </p>
+
+            <h3>Navigability:</h3>
+            <p>First a splash screen is presented, where the first player connects to a game room, their racket and table appear and the second player is awaited. As soon as the second player enters the virtual room, his racket appears. for the first player,
+                the ball is thrown and the game begins. You can end the game from any of the screens.
+            </p>
+
+            <h3>Gameplay:</h3>
+            <p>
+                - Players only move up and down, only on their y axis. Controls are directional arrows or the W and S keys;
+                <br/>- If the speed of the ball decreases and it moves slowly in the center of the table, players have the option to press the “space” key and launch the ball again;
+                <br/>- If the client player (player 2) leaves the connection, the ball is fixed in the center of the screen.
+            </p>
+
+            <h3>Mechanics:</h3>
+            <P>- The ball is played randomly from its point of origin (center of the screen) to the right (up or down) or left (up or down);
+                <br/>- If the ball collides with the player's or opponent's racket, the angle is checked of the collision, and this angle influences the exit direction of the ball:
+                <br/>- If the racket hits the ball in the upper corner, it must bounce towards the upper edge of the table;
+                <br/>- If the racket hits the ball in the center, it must bounce to the opposite side, horizontally (not up or down);
+                <br/>- If the racket hits the ball in the bottom corner, it must bounce towards the bottom edge of the table.
+                <br/>- If it collides with the horizontal borders of the table, the vertical direction of the ball is changed.
+            </P>
+
+            <h3>Scoring:</h3>
+            <p>
+                If the ball touch the vertical wall behind one of the players, the opposing player is scored.
+            </p>
+
+            <h3>Transition:</h3>
+            <p>There aren't in this version: levels, game limits (time, or score), leaving for the players to stipulate the game goal.
+            </p>
+
+            <h2>Control (s):</h2>
+
+            <p>Mouse and keyboard.</p>
+
+            <iframe width="100%" src="https://www.youtube.com/embed/7y4l3M3NjBo" title="Pong Network Challenge - Photon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+            <img src="../images/projects/pongChallengePhoton/Tela1.png" />
+
+            <img src="../images/projects/pongChallengePhoton/Tela2.png" />
+
+            <img src="../images/projects/pongChallengePhoton/Tela3.png" />
+
+            <img id="smallImg" src="../images/projects/pongChallengePhoton/TelaSimulationLag.png" />
+
+        </div>
+    </section>
+
+    <aside>
+
+        <img id="foto" src="../images/social/foto.jpg">
+
+        <p id="intro">
+            <q>My name is Jhonatan Néry, I live in Curitiba-PR, Brazil.<br /><br />
+        Here you can see most of my projects and know more about them, I hope you enjoy it.</q>
+        </p>
+
+        <a href="https://www.linkedin.com/in/jhonatantcn/" class="button">
+            <img class="social" src="../images/social/Linkedin.png">
+        </a>
+
+        <a href="https://www.facebook.com/jhonatantcn/" class="button">
+            <img class="social" src="../images/social/Facebook.png">
+        </a>
+
+        <a href="https://github.com/jhonatantcn" class="button">
+            <img class="social" src="../images/social/GitHub.png">
+        </a>
+
+        <a href="mailto:jhonatanthallisson@gmail.com" class="button">
+            <img class="social" src="../images/social/Mail.png">
+        </a>
+
+
+
+    </aside>
+
+
+</main>
+
+<footer>
+    <p id="copyright"></p>
+</footer>
+
+<!-- CONTADOR DE VISITAS -->
+<div id="sfcjj1a15uw8b63ksdkylrl2xj2atgftcng"></div>
+<script type="text/javascript" src="https://counter8.stat.ovh/private/counter.js?c=jj1a15uw8b63ksdkylrl2xj2atgftcng&down=async" async></script>
+<noscript><a href="https://www.webcontadores.com" title="contador de visitas para blog"><img
+      src="https://counter8.stat.ovh/private/webcontadores.php?c=jj1a15uw8b63ksdkylrl2xj2atgftcng" border="0"
+      title="contador de visitas para blog" alt="contador de visitas para blog"></a></noscript>
+<!-- CONTADOR DE VISITAS -->
+
+<script src="../js/script.js"></script>
+</body>
+
+</html>
