@@ -147,7 +147,7 @@ footer p {
     line-height: 5vh;
 }
 
-@media (max-width: 850px) or (orientation: portrait) {
+@media (max-width: 750px) or (orientation: portrait) {
     main {
         flex-direction: column;
         align-items: center;
@@ -176,6 +176,7 @@ footer p {
         width: 100%;
         margin-right: 0;
         margin-left: 0;
+        font-size: 6vh;
     }
     main section img {
         margin: 0;
