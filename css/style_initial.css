@@ -199,3 +199,9 @@ footer p {
         border: .5vh solid white;
     }
 }
+
+@media (orientation: landscape) {
+    #intro {
+        font-size: 15vw;
+    }
+}
